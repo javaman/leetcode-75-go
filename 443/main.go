@@ -30,8 +30,3 @@ func compress(chars []byte) int {
 	nextPosition = encode(nextPosition, nextChar, l)
 	return nextPosition
 }
-
-
-func main() {
-	
-}
